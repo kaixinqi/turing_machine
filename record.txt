@@ -1,0 +1,100 @@
+choose machines from top 22 machines:
+===== 4 machines =====
+len > 20, len =  44 , machines =  02031217
+len > 20, len =  44 , machines =  02031317
+len > 20, len =  22 , machines =  02031721
+len > 20, len =  25 , machines =  02041217
+len > 20, len =  22 , machines =  02111217
+len > 20, len =  22 , machines =  02121719
+len > 20, len =  22 , machines =  03111317
+len > 20, len =  22 , machines =  03131719
+len > 20, len =  22 , machines =  05121319
+len > 20, len =  22 , machines =  06121319
+len > 20, len =  22 , machines =  07121319
+len > 20, len =  28 , machines =  09111217
+len > 20, len =  28 , machines =  09111317
+len > 20, len =  28 , machines =  09121317
+len > 20, len =  28 , machines =  09121719
+len > 20, len =  28 , machines =  09131719
+len > 20, len =  24 , machines =  12131619
+len > 20, len =  30 , machines =  12131719
+len > 20, len =  24 , machines =  12131819
+ans with  0 :  4430
+ans with  1 :  568
+ans with  2 :  755
+ans with  3 :  378
+ans with  4 :  438
+ans with  5 :  142
+ans with  6 :  201
+ans with  7 :  73
+ans with  8 :  126
+ans with  9 :  19
+ans with  10 :  69
+ans with  11 :  6
+ans with  12 :  42
+ans with  13 :  3
+ans with  14 :  17
+ans with  15 :  0
+ans with  16 :  19
+ans with  17 :  0
+ans with  18 :  6
+ans with  19 :  1
+ans with  20 :  3
+ans with  21 :  0
+ans with  22 :  8
+ans with  23 :  0
+ans with  24 :  2
+ans with  25 :  1
+ans with  26 :  0
+ans with  27 :  0
+ans with  28 :  5
+ans with  29 :  0
+ans with  30 :  1
+total =  7315
+
+
+===== 5 machines =====
+
+len > 20, len =  32 , machines =  0203050713
+len > 20, len =  32 , machines =  0203060712
+len > 20, len =  32 , machines =  0203071218
+len > 20, len =  32 , machines =  0203071318
+len > 20, len =  22 , machines =  0506141518
+len > 20, len =  22 , machines =  0507141518
+len > 20, len =  22 , machines =  0607141518
+ans with  0 :  17612
+ans with  1 :  2107
+ans with  2 :  2433
+ans with  3 :  903
+ans with  4 :  1179
+ans with  5 :  401
+ans with  6 :  629
+ans with  7 :  170
+ans with  8 :  371
+ans with  9 :  111
+ans with  10 :  148
+ans with  11 :  52
+ans with  12 :  100
+ans with  13 :  19
+ans with  14 :  42
+ans with  15 :  8
+ans with  16 :  21
+ans with  17 :  2
+ans with  18 :  11
+ans with  19 :  1
+ans with  20 :  7
+ans with  21 :  0
+ans with  22 :  3
+ans with  23 :  0
+ans with  24 :  0
+ans with  25 :  0
+ans with  26 :  0
+ans with  27 :  0
+ans with  28 :  0
+ans with  29 :  0
+ans with  30 :  0
+total =  26334
+
+
+
+===== 6 machines =====

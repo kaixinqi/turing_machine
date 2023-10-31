@@ -265,9 +265,6 @@ func init() {
 		} else {
 			b++
 		}
-		if a > b {
-			return 2
-		}
 		return b + 1
 	})
 
