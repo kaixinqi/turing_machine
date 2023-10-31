@@ -98,3 +98,36 @@ total =  26334
 
 
 ===== 6 machines =====
+
+ans with  0 :  64559
+ans with  1 :  4308
+ans with  2 :  3002
+ans with  3 :  702
+ans with  4 :  1048
+ans with  5 :  255
+ans with  6 :  390
+ans with  7 :  74
+ans with  8 :  142
+ans with  9 :  28
+ans with  10 :  42
+ans with  11 :  6
+ans with  12 :  29
+ans with  13 :  0
+ans with  14 :  10
+ans with  15 :  0
+ans with  16 :  13
+ans with  17 :  1
+ans with  18 :  0
+ans with  19 :  0
+ans with  20 :  4
+ans with  21 :  0
+ans with  22 :  0
+ans with  23 :  0
+ans with  24 :  0
+ans with  25 :  0
+ans with  26 :  0
+ans with  27 :  0
+ans with  28 :  0
+ans with  29 :  0
+ans with  30 :  0
+total =  74613
